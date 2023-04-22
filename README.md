@@ -32,8 +32,6 @@ These are some of the tools and technologies I use for development:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 🌟 Projects
-
-# List of Projects
 Here are some of the projects I've worked on:
 
 - [MemoryTide](https://github.com/William-Laverty/MemoryTide) - A photo-sharing app that uses AI-based sorting to help friends share pictures from group events. 
