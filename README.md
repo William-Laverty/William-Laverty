@@ -1,13 +1,10 @@
 # Hi there, I'm Will Laverty! 👋
 
-# Introduction
-# Briefly introduce yourself and mention your age, location, and skills.
 I'm a 15-year-old iOS developer from [your location], and I specialize in developing Swift applications. I'm also a freelance video ad creator on [Fiverr](https://www.fiverr.com/users/[your_fiverr_username]/dashboard).
 
 ## 🧐 About Me
 
 # Overview
-# Provide a summary of your current focus, learning goals, and interests.
 - 🔭 I’m currently working on [your current project] using Swift and Xcode
 - 🌱 I’m currently learning [a skill you're currently learning]
 - 👯 I’m looking to collaborate on [a type of project you'd like to collaborate on]
@@ -20,7 +17,6 @@ I'm a 15-year-old iOS developer from [your location], and I specialize in develo
 ## 🚀 Skills
 
 # List of Skills
-# Enumerate your key skills and technologies.
 Here are some of the skills and technologies I'm proficient in:
 
 - Swift
@@ -34,7 +30,6 @@ Here are some of the skills and technologies I'm proficient in:
 ## 🔧 Tools & Technologies
 
 # Badges
-# Showcase the tools and technologies you use with badges.
 These are some of the tools and technologies I use for development:
 
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift&logoColor=orange)
@@ -45,7 +40,6 @@ These are some of the tools and technologies I use for development:
 ## 🌟 Projects
 
 # List of Projects
-# Highlight some of the projects you've worked on with brief descriptions.
 Here are some of the projects I've worked on:
 
 - [Project name](link to project) - A brief description of the project
@@ -55,11 +49,9 @@ Here are some of the projects I've worked on:
 ## 📫 Contact Me
 
 # Contact Information
-# Provide a way for people to get in touch with you.
 You can reach me at [your email address]. I'm always open to collaborating on new projects or discussing opportunities, so feel free to get in touch!
 
 ## 🎉 Thanks for stopping by!
 
 # Conclusion
-# End with a friendly message and a thank you.
 Thanks for taking the time to check out my profile. Have a great day!
