@@ -8,20 +8,16 @@ I'm a 15-year-old iOS developer from Australia, and I specialize in developing S
 - 👯 I’m looking to collaborate on a cloud based sharing app
 - 🤔 I’m looking for help with intergrating facial recognition into Swift
 - 💬 Ask me about my video production services
-- 📫 How to reach me: wlaverty13@gmail.com
 
 ## 🚀 Skills
 Here are some of the skills and technologies I'm proficient in:
 
-- Swift Core
-- SwiftUI
-- SpriteKit
-- HTML 
-- JavaScript
-- CSS
-- Vue
-- C++
-- Python
+- Video Production
+- Social Media Marketing
+- Graphic Design
+- Facebook Ads
+- E-Commerce Storefront Engineer
+- Shopify Funnels
 
 ## 🔧 Tools & Technologies
 These are some of the tools and technologies I use for development:
@@ -40,15 +36,11 @@ These are some of the tools and technologies I use for development:
 # List of Projects
 Here are some of the projects I've worked on:
 
-- [Project name](link to project) - A brief description of the project
-- [Project name](link to project) - A brief description of the project
-- [Project name](link to project) - A brief description of the project
+- [MemoryTide](https://github.com/William-Laverty/MemoryTide) - A photo-sharing app that uses AI-based sorting to help friends share pictures from group events. 
+- [MarineMission](https://github.com/William-Laverty/Marine-Mission-WWDC23) - A innovative and engaging game created for my WWDC23 Swift Student Challenge submission.
+- [Fiverr AutoRefresh](https://github.com/William-Laverty/Fiverr-AutoRefresh) - Fiverr AutoRefresh keeps your Fiverr account active and online 24/7 by reloading your seller dashboard at regular intervals.
 
 ## 📫 Contact Me
-
-# Contact Information
 You can reach me at wlaverty13@gmail.com. I'm always open to collaborating on new projects or discussing opportunities, so feel free to get in touch!
+</br></br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-## 🎉 Thanks for stopping by!
-Thanks for taking the time to check out my profile. Have a great day!
