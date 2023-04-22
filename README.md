@@ -26,10 +26,14 @@ Here are some of the skills and technologies I'm proficient in:
 ## 🔧 Tools & Technologies
 These are some of the tools and technologies I use for development:
 
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift&logoColor=orange)
 ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode&logoColor=blue)
-![Git](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=VSCode&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 🌟 Projects
 
@@ -43,9 +47,8 @@ Here are some of the projects I've worked on:
 ## 📫 Contact Me
 
 # Contact Information
-You can reach me at [your email address]. I'm always open to collaborating on new projects or discussing opportunities, so feel free to get in touch!
+You can reach me at wlaverty13@gmail.com. I'm always open to collaborating on new projects or discussing opportunities, so feel free to get in touch!
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## 🎉 Thanks for stopping by!
-
-# Conclusion
 Thanks for taking the time to check out my profile. Have a great day!
