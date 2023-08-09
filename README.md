@@ -1,4 +1,4 @@
-# Hi there, I'm Will Laverty! 👋
+# Hi there, I'm William Laverty! 👋
 
 I'm a 15-year-old iOS developer from Australia, and I specialize in developing Swift applications. I'm also a freelance video ad creator on [Fiverr](https://www.fiverr.com/williamlaverty).
 
