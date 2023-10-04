@@ -1,6 +1,6 @@
 # Hi there, I'm William Laverty! 👋
 
-I'm a 15-year-old iOS developer from Australia, and I specialize in developing Swift applications. I'm also a freelance video ad creator on [Fiverr](https://www.fiverr.com/williamlaverty).
+I'm a 16-year-old iOS developer from Australia, and I specialize in developing Swift applications. I'm also a freelance video ad creator on [Fiverr](https://www.fiverr.com/williamlaverty).
 
 ## 🧐 About Me
 - 🔭 I’m currently working on MemoryTide using Swift and Xcode
