@@ -34,6 +34,7 @@ These are some of the tools and technologies I use for development:
 ## 🌟 Projects
 Here are some of the projects I've worked on:
 
+- [LuaKit for Swift](https://github.com/William-Laverty/LuaKit-for-Swift) - A Swift Dependency Package that allows seamless integration of Lua scripting capabilities within Swift applications.
 - [ML-Student-Performance-Predictor](https://github.com/William-Laverty/ML-Student-Performance-Predictor) - Experience the future of education with the Student Performance Predictor, using Machine Learning's Linear Regression technique to forecast student achievements with precision.
 - [MemoryTide](https://github.com/William-Laverty/MemoryTide) - A photo-sharing app that uses AI-based sorting to help friends share pictures from group events. 
 - [MarineMission](https://github.com/William-Laverty/Marine-Mission-WWDC23) - A innovative and engaging game created for my WWDC23 Swift Student Challenge submission.
