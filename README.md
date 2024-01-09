@@ -13,11 +13,9 @@ I'm a 16-year-old iOS developer from Australia, and I specialize in developing S
 Here are some of the skills and technologies I'm proficient in:
 
 - Video Production
-- Social Media Marketing
+- iOS & macOS Development
 - Graphic Design
-- Facebook Ads
-- E-Commerce Storefront Engineer
-- Shopify Funnels
+- Full Stack Web Development
 
 ## 🔧 Tools & Technologies
 These are some of the tools and technologies I use for development:
