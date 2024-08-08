@@ -1,21 +1,22 @@
 # Hi there, I'm William Laverty! 👋
 
-I'm a 16-year-old iOS developer from Australia, and I specialize in developing Swift applications. I'm also a freelance video ad creator on [Fiverr](https://www.fiverr.com/williamlaverty).
+I'm a 16-year-old iOS developer from Australia, and I specialize in developing cross-platform web, moblile and desktop applications. I'm also used to be a freelance video ad creator on [Fiverr](https://www.fiverr.com/williamlaverty).
 
-[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/williamlaverty)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://williamlaverty.framer.website/)
 
 ## 🧐 About Me
 - 🔭 I’m currently working on MemoryTide using Swift and Xcode
 - 🌱 I’m currently learning CoreML
 - 👯 I’m looking to collaborate on a cloud based sharing app
 - 🤔 I’m looking for help with intergrating facial recognition into Swift
-- 💬 Ask me about my video production services
+- 💬 Ask me about my cybersecurity work
 
 ## 🚀 Skills
 Here are some of the skills and technologies I'm proficient in:
 
 - Video Production
 - iOS & macOS Development
+- .NET/C# Cybersecurity Development
 - Graphic Design
 - Full Stack Web Development
 
