@@ -1,6 +1,6 @@
 # Hi there, I'm William Laverty! 👋
 
-I'm a 16-year-old iOS developer from Australia, and I specialize in developing cross-platform web, moblile and desktop applications. Used to be a freelance video ad creator on [Fiverr](https://www.fiverr.com/williamlaverty).
+I'm a 17-year-old developer from Australia, and I specialize in developing cross-platform web, iOS moblile and desktop applications. Used to be a freelance video ad creator on [Fiverr](https://www.fiverr.com/williamlaverty).
 
 [![Developer Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://william-laverty.online/)
 
