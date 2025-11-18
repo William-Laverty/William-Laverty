@@ -1,6 +1,6 @@
 # Hi there, I'm William Laverty! 👋
 
-I'm a indie software developer from Australia specializing in developing cross-platform web, iOS moblile and desktop applications. Used to be a freelance video ad creator on [Fiverr](https://www.fiverr.com/williamlaverty).
+I'm a indie software developer from Australia specializing in developing cross-platform web, iOS moblile and desktop applications. 
 
 [![Developer Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://william-laverty.online/)
 
