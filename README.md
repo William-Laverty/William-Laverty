@@ -2,10 +2,12 @@
 
 I'm a indie software developer from Australia specializing in developing cross-platform web, iOS moblile and desktop applications. 
 
+<!---
 [![Developer Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://william-laverty.online/)
+-->
 
 ## 🧐 About Me
-- 🔭 I’m currently working on MemoryTide using Swift and Xcode
+- 🔭 I’m currently working at RPLY & Social Limits
 - 🌱 I’m currently learning CoreML
 - 👯 I’m looking to collaborate on a cloud based sharing app
 - 🤔 I’m looking for help with intergrating facial recognition into Swift
@@ -48,6 +50,4 @@ Here are some of the projects I've worked on:
 - [Fiverr AutoRefresh](https://github.com/William-Laverty/Fiverr-AutoRefresh) - Fiverr AutoRefresh keeps your Fiverr account active and online 24/7 by reloading your seller dashboard at regular intervals.
 
 ## 📫 Contact Me
-You can reach me at wlaverty13@gmail.com. I'm always open to collaborating on new projects or discussing opportunities, so feel free to get in touch!
-</br></br>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+You can reach me at dev@william-laverty.com. I'm always open to collaborating on new projects or discussing opportunities, so feel free to get in touch!
