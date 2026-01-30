@@ -7,12 +7,8 @@
 
 <br/>
 
-<!-- WWDC Scholar Badge - Make it POP -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/2×_WWDC_Scholar-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/2×_WWDC_Scholar-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img alt="2× WWDC Scholar" src="https://img.shields.io/badge/2×_WWDC_Scholar-000000?style=for-the-badge&logo=apple&logoColor=white">
-</picture>
+<!-- WWDC Scholar Badge -->
+<img alt="2× WWDC Scholar" src="https://img.shields.io/badge/2×_WWDC_Scholar-000000?style=for-the-badge&logo=apple&logoColor=white">
 
 <br/><br/>
 
@@ -31,32 +27,30 @@ Building at **[NOX](https://noxapp.co)** on **RPLY** — reimagining messaging w
 
 ---
 
-<br/>
-
 ### `// What I'm building`
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**RPLY** — AI-powered messaging that actually gets you
+🚀 **RPLY** — AI-powered messaging that actually gets you
 
-**ClipWise** — Clipboard management, reimagined
+📋 **ClipWise** — Clipboard management, reimagined
 
-**Notelo** — AI reading summaries that help you retain more
+📚 **Notelo** — AI reading summaries that help you retain more
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-**Rowing Graphics Studio** — ML-powered boat detection for broadcast
+🚣 **Rowing Graphics Studio** — ML-powered boat detection for broadcast
 
-**Spendora** — Making personal finance feel less like a chore
+💰 **Spendora** — Making personal finance feel less like a chore
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
 ### `// Tech Stack`
 
@@ -77,26 +71,30 @@ let will = Developer(
 )
 ```
 
-<br/>
+---
 
 ### `// GitHub Stats`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=William-Laverty&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&hide_title=true&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=William-Laverty&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969da&hide_title=true&include_all_commits=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=William-Laverty&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&hide_title=true&include_all_commits=true" width="49%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Laverty&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_title=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Laverty&layout=compact&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a&hide_title=true">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Laverty&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_title=true" width="41%">
-</picture>
+<!-- Stats Card -->
+<a href="https://github.com/William-Laverty">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=William-Laverty&theme=github_dark" alt="Stats" />
+</a>
+<a href="https://github.com/William-Laverty">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=William-Laverty&theme=github_dark" alt="Top Languages" />
+</a>
+
+<br/>
+
+<!-- Activity Graph -->
+<a href="https://github.com/William-Laverty">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=William-Laverty&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</a>
 
 </div>
 
-<br/>
+---
 
 ### `// Beyond Code`
 
@@ -115,11 +113,5 @@ let will = Developer(
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=footer">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer" width="100%">
-</picture>
-
 </div>
