@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-Building at **[NOX](https://noxapp.co)** on **RPLY** — reimagining messaging with AI.
+Building at **[NOX](https://www.heynox.com/)** on **RPLY** — reimagining messaging with AI.
 
 <br/>
 
