@@ -1,5 +1,5 @@
 <div align="center">
-
+    
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=10&color=000000&center=true&multiline=true&repeat=false&width=435&height=85&lines=Hey%2C+I'm+Will+%F0%9F%91%8B;Swift+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+in+SF+%F0%9F%93%8D)](https://git.io/typing-svg)
 
