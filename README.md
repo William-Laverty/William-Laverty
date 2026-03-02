@@ -25,31 +25,6 @@ Building **RPLY** at **[NOX](https://www.heynox.com/)** — reimagining messagin
 
 ---
 
-### `// What I'm building`
-
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-🚀 **RPLY** — AI-powered messaging that actually gets you
-
-📋 **ClipWise** — Clipboard management, reimagined
-
-📚 **Notelo** — AI reading summaries that help you retain more
-
-</td>
-<td valign="top" width="50%">
-
-🚣 **Rowing Graphics Studio** — ML-powered boat detection for broadcast
-
-💰 **Spendora** — Making personal finance feel less like a chore
-
-</td>
-</tr>
-</table>
-
----
-
 ### `// Tech Stack`
 
 <div align="center">
@@ -98,7 +73,7 @@ let will = Developer(
 
 <div align="center">
 
-**Year 12** at ANU Extension (Computer Science) · **Video Production** · **3D with Blender**
+**Video Production** · **CASA Licensed RePL | ARN: 1099888**
 
 <br/>
 
@@ -106,10 +81,6 @@ let will = Developer(
 
 </div>
 
-<br/>
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%">
 </div>
