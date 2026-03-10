@@ -46,29 +46,6 @@ let will = Developer(
 
 ---
 
-### `// GitHub Stats`
-
-<div align="center">
-
-<!-- Stats Card -->
-<a href="https://github.com/William-Laverty">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=William-Laverty&theme=github_dark" alt="Stats" />
-</a>
-<a href="https://github.com/William-Laverty">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=William-Laverty&theme=github_dark" alt="Top Languages" />
-</a>
-
-<br/>
-
-<!-- Activity Graph -->
-<a href="https://github.com/William-Laverty">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=William-Laverty&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</a>
-
-</div>
-
----
-
 ### `// Beyond Code`
 
 <div align="center">
